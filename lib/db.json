@@ -1,0 +1,70 @@
+{
+  "banned": [],
+  "whitelist": [],
+  "users": {},
+  "groups": {
+    "120363419818563630@g.us": {
+      "approved": true,
+      "name": "TEST BOT",
+      "addedBy": "6285746345170@s.whatsapp.net",
+      "users": {
+        "6285746345170@s.whatsapp.net": {
+          "xp": 557,
+          "level": 7,
+          "role": "Pemula",
+          "reward": 270,
+          "lastClaim": 1750507836527,
+          "money": 820,
+          "inventory": []
+        },
+        "6285172205170@s.whatsapp.net": {
+          "xp": 18,
+          "level": 2,
+          "role": "Pemula",
+          "reward": 20,
+          "lastClaim": 0,
+          "money": 500,
+          "inventory": []
+        },
+        "120363419818563630@g.us": {
+          "xp": 51,
+          "level": 3,
+          "role": "Pemula",
+          "reward": 50,
+          "lastClaim": 0
+        }
+      }
+    },
+    "120363400024789186@g.us": {
+      "approved": false,
+      "name": "TEST GRUP",
+      "addedAt": 1750595690119,
+      "users": {}
+    },
+    "120363402642396530@g.us": {
+      "approved": true,
+      "name": "TESTERS",
+      "addedAt": 1750595916637,
+      "users": {
+        "6285746345170@s.whatsapp.net": {
+          "xp": 9,
+          "level": 1,
+          "role": "Pemula",
+          "reward": 0,
+          "lastClaim": 0,
+          "money": 500,
+          "inventory": []
+        },
+        "6285172205170@s.whatsapp.net": {
+          "xp": 25,
+          "level": 1,
+          "role": "Pemula",
+          "reward": 0,
+          "lastClaim": 0,
+          "money": 500,
+          "inventory": []
+        }
+      }
+    }
+  }
+}
